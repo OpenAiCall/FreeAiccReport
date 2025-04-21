@@ -20,6 +20,9 @@ http://118.25.192.13:8822/cc
 2，工单：(demo/123456)
 http://118.25.192.13:80
 
+注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
+![image](https://github.com/user-attachments/assets/a87bf18e-36c6-42d0-b4ca-e01c9c9c1491)
+
 ## 开发语言：Java,Vue,Python,SpringBoot！
 业务模块Java为主；智能模块Python为主。
 
